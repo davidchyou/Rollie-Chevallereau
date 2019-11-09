@@ -1,0 +1,17 @@
+"LBL","FREQ","LBL2","PVAL"
+"ST-/ACR-",30,"Self-target, ACR with CRISPR OR=4.469 P<0.05",0.028064084077344
+"ST+/ACR-",33,"Self-target, ACR with CRISPR OR=4.469 P<0.05",0.028064084077344
+"ST-/ACR+",3,"Self-target, ACR with CRISPR OR=4.469 P<0.05",0.028064084077344
+"ST+/ACR+",15,"Self-target, ACR with CRISPR OR=4.469 P<0.05",0.028064084077344
+"ST-/CRISPR-",6,"Self-target, CRISPR without ACR OR=1.639 P=0.515",0.515115094822464
+"ST+/CRISPR-",4,"Self-target, CRISPR without ACR OR=1.639 P=0.515",0.515115094822464
+"ST-/CRISPR+",30,"Self-target, CRISPR without ACR OR=1.639 P=0.515",0.515115094822464
+"ST+/CRISPR+",33,"Self-target, CRISPR without ACR OR=1.639 P=0.515",0.515115094822464
+"ST-/ACR-",44,"Self-target in prophages, ACR with CRISPR OR=11.195 P<0.05",8.1360199881849e-05
+"ST+/ACR-",19,"Self-target in prophages, ACR with CRISPR OR=11.195 P<0.05",8.1360199881849e-05
+"ST-/ACR+",3,"Self-target in prophages, ACR with CRISPR OR=11.195 P<0.05",8.1360199881849e-05
+"ST+/ACR+",15,"Self-target in prophages, ACR with CRISPR OR=11.195 P<0.05",8.1360199881849e-05
+"ST-/CRISPR-",9,"Self-target in prophages, CRISPR without ACR OR=3.832 P=0.267",0.267125155762999
+"ST+/CRISPR-",1,"Self-target in prophages, CRISPR without ACR OR=3.832 P=0.267",0.267125155762999
+"ST-/CRISPR+",44,"Self-target in prophages, CRISPR without ACR OR=3.832 P=0.267",0.267125155762999
+"ST+/CRISPR+",19,"Self-target in prophages, CRISPR without ACR OR=3.832 P=0.267",0.267125155762999
