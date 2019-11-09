@@ -3,7 +3,7 @@ library(ape)
 
 #Load up the raw data and create binary variables for presence of ACR and a complete CRISPR-Cas system.
 
-df_has_acr <- read.csv("PSA_complete.summ.csv")
+df_has_acr <- read.csv("PSA_self_target_raw_data.csv")
 
 df_has_acr <- df_has_acr[df_has_acr$HAS_ARRAY == 1,]
 
