@@ -3,7 +3,7 @@ library(ggplot2)
 library(gplots)
 
 #Read in the raw data
-pdata <- read.csv("PHAST_mismatch_count_nr_full_05_b.csv")
+pdata <- read.csv("spacer_hit_raw_data.csv")
 
 #Collecting frequencies for subfigures a, and compute the base data frame for subfigure b and c
 pdata_simple <- data.frame(GENERA = as.character(pdata$GENERA),
